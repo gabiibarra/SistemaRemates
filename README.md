@@ -8,10 +8,10 @@ Aplicación de escritorio desarrollada en Java para la gestión integral de rema
 - **Gestión de roles** con diferentes niveles de acceso
 - **Operaciones CRUD completas** para las entidades
 - **Base de datos MySQL** para persistencia de datos
-- **Interfaz gráfica** intuitiva y responsive
+- **Interfaz gráfica** intuitiva
 - **Programación orientada a objetos** con diseño modular
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Lenguaje**: Java
 - **Base de datos**: MySQL
