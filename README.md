@@ -1,4 +1,4 @@
-# Sistema de Remates 🏇
+# Sistema de Remates de Caballos
 
 Aplicación de escritorio desarrollada en Java para la gestión integral de remates de caballos. 
 
