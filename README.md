@@ -15,4 +15,3 @@ Aplicación de escritorio desarrollada en Java para la gestión integral de rema
 
 - **Lenguaje**: Java
 - **Base de datos**: MySQL
-- **Paradigma**: Programación Orientada a Objetos (POO)
